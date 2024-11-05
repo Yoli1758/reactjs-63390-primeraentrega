@@ -1,0 +1,13 @@
+.form-control{
+    border-radius: 8px 0px 0px 8px;
+    /* color: red; */
+    
+}
+.form-control::placeholder{
+
+    color: rgb(245, 108, 59);
+    opacity: 0.5;
+}
+.btn{
+    border-radius: 0px 8px 8px 0px;
+}
